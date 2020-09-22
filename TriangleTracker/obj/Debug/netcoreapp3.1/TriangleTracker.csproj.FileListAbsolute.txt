@@ -1,0 +1,13 @@
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\obj\Debug\netcoreapp3.1\TriangleTracker.csprojAssemblyReference.cache
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\obj\Debug\netcoreapp3.1\TriangleTracker.AssemblyInfoInputs.cache
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\obj\Debug\netcoreapp3.1\TriangleTracker.AssemblyInfo.cs
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\obj\Debug\netcoreapp3.1\TriangleTracker.csproj.CoreCompileInputs.cache
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\bin\Debug\netcoreapp3.1\TriangleTracker.deps.json
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\bin\Debug\netcoreapp3.1\TriangleTracker.dll
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\bin\Debug\netcoreapp3.1\TriangleTracker.pdb
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\obj\Debug\netcoreapp3.1\TriangleTracker.dll
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\obj\Debug\netcoreapp3.1\TriangleTracker.pdb
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\bin\Debug\netcoreapp3.1\TriangleTracker.exe
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\bin\Debug\netcoreapp3.1\TriangleTracker.runtimeconfig.json
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\bin\Debug\netcoreapp3.1\TriangleTracker.runtimeconfig.dev.json
+C:\users\Jeffrey\documents\epicodus\CSharp\triangle-tracker\TriangleTracker\obj\Debug\netcoreapp3.1\TriangleTracker.genruntimeconfig.cache
